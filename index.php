@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-    <h1>Ciao <?php echo $argv[0].$argv[1]; ?></h1>
+    <h1>Ciao <?php echo $argv[1].' '.$argv[2]; ?></h1>
   </body>
 </html>
